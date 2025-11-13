@@ -12,4 +12,5 @@
 |  5 | 03  | 03  | Widget SizedBox, Spacer, dan Card  | [Modul 05](https://drive.google.com/file/d/1cVl9qzwmJ1fy4ZU1NfBjXaTaYjDmRkBa/view)| [Source Code](https://github.com/Abbiyi/modul05_mobile) |
 |  6 | 04  | 04  | Interaction and User Input  | [Modul 06](https://drive.google.com/file/d/1js1RTpQyvBF0cF2VceaYJGw-YRT3hhba/view?usp=sharing)| [Source Code](https://github.com/Abbiyi/modul06_mobile) |
 |  7 | 04  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07](https://drive.google.com/file/d/1js1RTpQyvBF0cF2VceaYJGw-YRT3hhba/view?usp=sharing)| [Source Code](https://github.com/Abbiyi/modul07_mobile) |
+|  8 | 05  | 05  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](https://drive.google.com/file/d/1js1RTpQyvBF0cF2VceaYJGw-YRT3hhba/view?usp=sharing)| [Source Code](https://github.com/Abbiyi/modul08_mobile) |
 
